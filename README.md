@@ -9,6 +9,9 @@
       <a href="https://www.python.org/">
 	<img src="/img/python.png" style="vertical-align:top; margin:6px 4px">
       </a>
+      <a href="https://www.gnu.org/software/bash/">
+         <img src="/img/bash.png" style="vertical-align:top; margin:6px 4px">
+      </a>
       <a href="https://neovim.io/">
 	<img src="/img/neovim.png" style="vertical-align:top; margin:6px 4px">
       </a>
