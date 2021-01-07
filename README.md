@@ -35,5 +35,5 @@
 
 
 
-![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg&theme=ayu-mirage&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pryme-svg&theme=ayu-mirage&count_private=true&layout=compact)
+![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg&theme=ayu-mirage&show_icons=true&count_private=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pryme-svg&theme=ayu-mirage&count_private=true&layout=compact&bg_color=00000000)
